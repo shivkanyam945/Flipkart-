@@ -32,5 +32,5 @@ The dashboard opens with a summary of core KPIs like total revenue, number of or
 # Business Impact
 This dashboard empowers Flipkart to optimize pricing and discounts, refine product offerings based on satisfaction data, identify the most reliable sellers and products, and understand regional or seasonal opportunities for growth. It bridges the gap between raw data and strategic planning, helping teams act on the insights that matter most.
 
-# Screenshots / Demos :
+# Screenshots / Demos : https://github.com/shivkanyam945/Flipkart-/blob/main/Flipkart.png
 
